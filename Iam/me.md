@@ -1,16 +1,16 @@
-#                             Who Am I :grey_question:
+#                                                                 Who Am I :grey_question:
 
 ### A little about me:
 
-- A human being in general disagreed with the things themselves, because i believe thaT we can always modify and create more efficient features, which allows us to face problems and, above all, solves them from different points of view, since the world we live in is multiple. So, i think that we, sapiens, also need to have the multidisciplinary capacity in order to not only better understand ourselves, but also to capture the desires of society and make it an increasingly better environment in which to live.
+- Um ser humano inconformado com as coisas em si, porque acredito que podemos sempre modificar e criar funcionalidades mais eficientes, o que nos permite encarar os problemas com inteligência  e, acima de tudo,  resolve-lós por meio de diferentes pontos de vista, uma vez que o mundo em que vivemos é múltiplo. Por conta disso, penso que nós , sapiens, também precisamos ter a capacidade multidisciplinar a fim de não somente compreendermos melhor a nós mesmos, como também identificar os anseios da sociedade e, assim, trabalhar para debelá-los, tornando o âmbito social um local melhor para vivermos.
 
 ### Hobbies :
 
-- Knowledge
-- Books
+- Conhecimento
+- Livros
 - Games
-- Programmation
-- Artificial Intelligence
-- Biotechnology
-- Neuroscience
-- Fhilosophy
+- Programação
+- Inteligência artificial
+- Biotecnologia
+- Neurociência
+- Filosofia
